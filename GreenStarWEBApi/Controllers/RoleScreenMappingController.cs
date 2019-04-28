@@ -30,8 +30,6 @@ namespace WebAPI.Controllers
             return Request.CreateResponse(HttpStatusCode.OK, dsResult);
         }
 
-
-
         // GET api/RoleScreenMapping
         public HttpResponseMessage GetRoleScreenMappingsById(int Id)
         {

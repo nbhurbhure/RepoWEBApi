@@ -1,3 +1,7 @@
+C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\NUnit3.TestAdapter.dll
+C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\NUnit3.TestAdapter.pdb
+C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\nunit.engine.dll
+C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\nunit.engine.api.dll
 C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\GreenStarWEBApi.dll.config
 C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\GreenStarWEBApi.dll
 C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\GreenStarWEBApi.pdb
@@ -51,7 +55,9 @@ C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\Antlr3.Runtime.dll
 C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
 C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\NBench.dll
 C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\Newtonsoft.Json.dll
+C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\nunit.framework.dll
 C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\System.Diagnostics.DiagnosticSource.dll
 C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\System.Net.Http.Formatting.dll
 C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\System.Web.Cors.dll
@@ -66,6 +72,8 @@ C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\System.Web.WebPages.Deployment.dl
 C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\System.Web.WebPages.dll
 C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\System.Web.WebPages.Razor.dll
 C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\WebGrease.dll
+C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\nunit.framework.pdb
+C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\nunit.framework.xml
 C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\System.Web.Http.Cors.xml
 C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\Newtonsoft.Json.xml
 C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\System.Net.Http.Formatting.xml
@@ -82,7 +90,6 @@ C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\Antlr3.Runtime.pdb
 C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\System.Diagnostics.DiagnosticSource.xml
 C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 C:\Project\GreenStarWEBApi\GreenStarWEBApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Project\GreenStarWEBApi\GreenStarWEBApi\obj\Debug\GreenStarWEBApi.csprojAssemblyReference.cache
 C:\Project\GreenStarWEBApi\GreenStarWEBApi\obj\Debug\GreenStarWEBApi.csproj.CoreCompileInputs.cache
 C:\Project\GreenStarWEBApi\GreenStarWEBApi\obj\Debug\GreenStarWEBApi.csproj.CopyComplete
 C:\Project\GreenStarWEBApi\GreenStarWEBApi\obj\Debug\GreenStarWEBApi.dll

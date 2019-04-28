@@ -9,6 +9,17 @@ namespace GreenStarWEBApi.Controllers
 {
     public class ValuesController : ApiController
     {
+
+        public int TestSumMethod()
+        {
+            int sum = 0;
+            for(int i=0; i < 1000; i++)
+            {
+                sum += i;
+            }
+            return sum;
+        }
+
         // GET api/values
         public IEnumerable<string> Get()
         {
